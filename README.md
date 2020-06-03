@@ -24,6 +24,7 @@ and open http://localhost:3000 on your browser
 https://codesandbox.io/s/nameless-hill-hv5if
 
 ### App URL
-Sandbox Preview URL: https://hv5if.csb.app/
-HEROKU URL: 
-NETLIFY URL: 
+
+HEROKU URL: https://campus-data-visualization.herokuapp.com/
+
+NETLIFY URL: https://csb-hv5if.netlify.app/
